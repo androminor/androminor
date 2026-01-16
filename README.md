@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Varun Singh, a passionate Android Developer who loves building robust and high-performing mobile applications with AI. Currently diving deeper in standalone AI/ML. 
+## **Hi there! 👋 I'm Varun Singh, a passionate Android Developer who loves building robust and high-performing mobile applications with AI. Currently diving deeper in standalone AI/ML. **
 
 ### 👨‍💻 About Me:
 
