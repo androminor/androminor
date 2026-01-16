@@ -1,16 +1,56 @@
-## Hi there 👋
+# 🚀 Varun Singh | Android Developer | Kotlin Enthusiast
 
-<!--
-**androminor/androminor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://your-image-url.com/banner.png)
 
-Here are some ideas to get you started:
+## Hi there! 👋 I'm Varun Singh, a passionate Android Developer who loves building robust and high-performing mobile applications. I specialize in Kotlin and love exploring new technologies to craft seamless user experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me:
+
+* 🔥 9+ years of experience in mobile development
+* 🎯 Specializing in Android, MVVM, RxJava, Coroutines, and Jetpack components
+* 🛠️ Passionate about performance optimization, reducing ANRs & crashes
+* 📍 Based in Noida, India 🇮🇳
+* 🌱 Always learning and experimenting with new tech!
+
+---
+
+## 🚀 Featured Projects:
+
+### 🏆 [ButtonSwitching](https://github.com/androminor/ButtonSwitching)
+
+*A simple button toggle sample using Kotlin.*
+
+### ⏱ [Stopwatch](https://github.com/androminor/Stopwatch)
+
+*A stylish and functional stopwatch with smooth UI.*
+
+### 🔗 [SampleRxJavaWithoutInjection](https://github.com/androminor/SampleRxJavaWithoutInjection)
+
+*A curated list of functions used with RxJava.*
+
+### 📱 [RecyclerView-with-JsonArray-MVVM](https://github.com/androminor/RecyclerView-with-JsonArray-MVVM)
+
+*A full-fledged news app using MVVM architecture.*
+
+### 📝 [NoteApp](https://github.com/androminor/NoteApp)
+
+*A simple yet effective Note-taking app in Kotlin.*
+
+---
+
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=androminor\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androminor\&layout=compact\&theme=radical)
+
+---
+
+## 📫 Let's Connect:
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/varun-singh)
+* 📝 [Medium Blog](https://medium.com/@varunsingh)
+* 🐦 [Twitter](https://twitter.com/varun_singh)
+* ✉️ Reach me at: **[varun.singh.dev@gmail.com](mailto:varun.singh.dev@gmail.com)**
+
+💙 If you like my work, consider giving my repositories a ⭐ to support my journey!
