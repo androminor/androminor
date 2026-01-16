@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me:
 
-* 🔥 9+ years of experience in mobile development
+* 🔥 10+ years of experience in mobile development
 * 🎯 Specializing in Android, MVVM, RxJava, Coroutines, and Jetpack components
 * 🛠️ Passionate about performance optimization, reducing ANRs & crashes
 * 📍 Based in Noida, India 🇮🇳
