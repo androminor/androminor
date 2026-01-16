@@ -14,10 +14,6 @@
 
 ## 🚀 Featured Projects:
 
-### 🏆 [ButtonSwitching](https://github.com/androminor/ButtonSwitching)
-
-*A simple button toggle sample using Kotlin.*
-
 ### ⏱ [Stopwatch](https://github.com/androminor/Stopwatch)
 
 *A stylish and functional stopwatch with smooth UI.*
