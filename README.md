@@ -37,19 +37,6 @@
 
 ---
 
-## 📊 GitHub Stats:
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=androminor\&show_icons=true\&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=androminor\&layout=compact\&theme=radical)
-
----
-
 ## 📫 Let's Connect:
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/varun-singh)
-* 📝 [Medium Blog](https://medium.com/@varunsingh)
-* 🐦 [Twitter](https://twitter.com/varun_singh)
-* ✉️ Reach me at: **[varun.singh.dev@gmail.com](mailto:varun.singh.dev@gmail.com)**
-
-💙 If you like my work, consider giving my repositories a ⭐ to support my journey!
+* 💼 [LinkedIn](https://www.linkedin.com/in/varun-singh-88780a18)
+* ✉️ Reach me at: **[singhonmobile@gmail.com)**
