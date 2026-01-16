@@ -1,6 +1,5 @@
-# 🚀 Varun Singh | Android Developer | Kotlin Enthusiast
+# 🚀 Varun Singh | Senior Android Developer | Kotlin Enthusiast
 
-![Profile Banner](https://your-image-url.com/banner.png)
 
 ## Hi there! 👋 I'm Varun Singh, a passionate Android Developer who loves building robust and high-performing mobile applications. I specialize in Kotlin and love exploring new technologies to craft seamless user experiences.
 
