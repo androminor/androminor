@@ -2,7 +2,7 @@ Hi there! 👋 I'm Varun Singh, a passionate Android Developer who loves buildin
 
 ### 👨‍💻 About Me:
 
-* 🔥 10 years of experience in mobile KOTLIN/ANDROID
+* 🔥 10 years of experience in mobile JAVA/KOTLIN/ANDROID
 * 🎯 Specializing in Android, MVVM, RxJava, Coroutines, and Jetpack components
 * 🛠️ Passionate about performance optimization, reducing ANRs & crashes
 * 🌱 Always learning and experimenting with new tech!
